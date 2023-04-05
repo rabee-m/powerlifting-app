@@ -1,5 +1,5 @@
 # Powerlifting Database Web App 
-## CS348: Database Management Final Project
+## Final Project for CS348: Databases
 
 ## Pre-Requisites
 Must have docker installed.
