@@ -1,4 +1,4 @@
-# CS348 Project (Milestone 3)
+# Powerlifting Database Web App (CS348: Database Management Final Project)
 
 ## Pre-Requisites
 Must have docker installed.
@@ -99,10 +99,6 @@ List of frontend files for implemented features:
 - Personal Meet Submission (~/C5/frontend/src/components/InsertLifts/Insert.jsx)
 - Search Users (~/C5/frontend/src/components/Search/Controller.jsx)
 - Edit Profile (~/C5/frontend/src/components/Profile/UpdateProfile.jsx)
-
-## New in Milestone 3:
-- Favourite User feature implemented
-- Fancy Features (Finalized UI, Admin Control, Personal Meet Submission, User Search, Update Profile)
 
 #### Authentication
 Open http://localhost:3000/login.
